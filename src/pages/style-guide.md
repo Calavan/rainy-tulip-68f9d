@@ -3,7 +3,7 @@ title: Style Guide n
 subtitle: >-
   The style guide provides you with a blueprint of default post and page styles.
   The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+  and styles for your content. N
 img_path: images/6.jpg
 template: page
 ---
